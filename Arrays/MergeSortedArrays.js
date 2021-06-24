@@ -34,9 +34,10 @@ const mergeSortedArrays = (array1, array2) => {
 let res = mergeSortedArrays([0, 3, 4, 31], [0, 4, 6, 30])
 
 console.log(res)
+//time complexity O(a+b), and b are input array size
 
 //another solution with arrays not sorted inital
-
+//Time complexity of sorting (in this case it use quicksort) so best case complexity O(n * log n)
 const mergeUnSortedArrays2 = (array1, array2) => [...array1, ...array2].sort((a, b) => a - b)
 
 let res2 = mergeUnSortedArrays2([0, 31, 4, 3], [6, 4, 30])

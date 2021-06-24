@@ -32,6 +32,7 @@ const containsCommonItems = (arr1, arr2) => {
 //--------------------------------------------------------------------
 //Better Solution
 //Convert array3 to an object
+//using hashtables
 
 const containsCommonItems2 = (arr1, arr2) => {
   // loop through first array and create object where properties === items in the array
