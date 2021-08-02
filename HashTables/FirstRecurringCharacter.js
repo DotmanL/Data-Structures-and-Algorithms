@@ -43,6 +43,8 @@ const firstRecurringCharacterFix = (input) => {
 let resFix = firstRecurringCharacterFix([2, 5, 5, 2, 3, 5, 1, 2, 4])
 console.log(resFix)
 
+//
+//
 //solve with hash tables
 // this compares from each item on each iteration
 
