@@ -11,6 +11,7 @@ const reverse = (str) => {
 		const backwards = []
 		const stringLength = str.length - 1
 		for (let i = stringLength; i >= 0; i--) {
+			console.log(i)
 			backwards.push(str[i])
 			// you can access a string as an array
 		}
