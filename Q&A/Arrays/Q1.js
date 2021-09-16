@@ -68,8 +68,8 @@ const findTwoSumBfa = (nums, target) => {
 const findTwoSumOs = (nums, target) => {
   const numsMap = {}; //stores our value and key pair as we iterate through the various integers in our num
   for (let p = 0; p < nums.length; p++) {
-    const currentMapVal = numsMap[nums[p]]; //--initialy undefined as our object is empty
-    // console.log(numsMap);
+    const currentMapVal = numsMap[nums[p]]; //undefined until we get an integer that matches a key stored in our object
+    //  console.log(numsMap);
 
     //undefined compared to any value will give false, else we run our else statements for undefined currentMapVal
     if (currentMapVal >= 0) {
