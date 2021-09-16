@@ -1,0 +1,25 @@
+//Question
+
+
+//Step 1: Verify the constraints
+
+
+//Step 2: Write out some test cases
+
+
+//Step 3: Figure out a solution without code
+
+
+//Step 4: Write out solution in code
+
+
+//Step 5: Double Check for Errors -- Spelling mistakes, variables, closing loops, etc..
+
+
+//Step 6: Test our code with ur test cases
+
+
+//Step 7: Analyzing Space and Time Complexity
+
+
+//Step 8: Can we optimize our solution
