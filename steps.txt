@@ -16,7 +16,7 @@
 //Step 5: Double Check for Errors -- Spelling mistakes, variables, closing loops, etc..
 
 
-//Step 6: Test our code with ur test cases
+//Step 6: Test our code with our test cases
 
 
 //Step 7: Analyzing Space and Time Complexity
